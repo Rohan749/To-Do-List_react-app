@@ -1,0 +1,13 @@
+.form_button {
+    width: 10rem;
+    height: 4rem;
+    font-size: large;
+    transition-duration: 0.2s;
+    border: none;
+    margin-bottom: 5%;
+}
+
+.form_button:hover {
+    transition-duration: 0.2s;
+    box-shadow: 0px 0px 10px 0.2px;
+}

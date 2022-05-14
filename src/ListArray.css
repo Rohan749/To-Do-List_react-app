@@ -1,0 +1,26 @@
+.list_border {
+    border: none;
+    background-color: rgb(147, 78, 211);
+    margin-left: 40%;  
+    margin-right: 40%;  
+    margin-top: 2%;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    color: rgb(225, 225, 225);
+}
+
+.list_border:hover {
+    background-color: rgb(109, 4, 207);
+    transition-duration: 0.4s;
+}
+
+.input_section {
+    width: 30rem;
+    height: 2rem;
+    font-size: larger;
+    margin: 2rem;
+}
